@@ -20,7 +20,7 @@
 &emsp; If you don't have your own machine, you can still develop your work by using online environment instead.
  - [Google Colab](https://colab.research.google.com/) - Now Colab has limited access credit.
  - [Kaggle](https://www.kaggle.com/) - Limited GPU access but it will refill every week. Before access GPU you have to verify your account by following this [tutorial](https://www.kaggle.com/general/331276).
- - [Microsoft Azure](https://azure.microsoft.com/en-us) - Hard to use, but it's more adjustable. Azure has 100 free credits for student, activate by this [link](https://azure.microsoft.com/en-us/free/students/)
+ - [Microsoft Azure](https://azure.microsoft.com/en-us) - Hard to use, but it's more adjustable. Azure has 100 free credits for student, activate by this [link](https://azure.microsoft.com/en-us/free/students/).
  - [Deepnote](https://deepnote.com/)
 
 # Reference and more resource
