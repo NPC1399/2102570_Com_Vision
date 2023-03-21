@@ -1,6 +1,7 @@
 **PyTorch Tutorial in Computer Vision for Computer Vision and Video Electronics, CUEE**
 
 &emsp; This tutorial will contain example with description for image classification, custom datasets, transfer learning, and object detection task using PyTorch step by step.
+<!------------------------------------------------------------------------------>
 
 **Coming Update**
 | Content  | Date |
@@ -8,13 +9,26 @@
 | image classification, custom datasets, transfer learning   | within 24/03/23  |
 | how to prepare dataset for object detection task  | within 26/03/23  |
 | object detection  | within 31/03/23  |
+<!------------------------------------------------------------------------------>
 
+## Table of contents
+- [Prepare system environment for deep learning](#prepare_sytem)
+  - [Set up on your own machine](#own_machine)
+  - [Online environment](#online_env)
+- [Reference and more resource](#ref_res)
+<!------------------------------------------------------------------------------>
+
+<a name='prepare_sytem'></a>
 # Prepare system environment for deep learning
+<a name='own_machine'></a>
 ## Set up on your own machine
 
 &emsp; If you want to set up on your machine, the machine must have at least 8 GB of RAM and a dedicated graphics card from NVIDIA (another brand is still okay, but it may be hard to set up).
  - [linux/ubuntu](https://wiry-guilty-734.notion.site/Setup-Ubuntu-Environment-for-Deep-Learning-dc81869719bf4049a99e7357796cf0d8/) - I will update the complete command soon.
  - [Windows](https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-installation)
+<!------------------------------------------------------------------------------>
+
+<a name='online_env'></a>
 ## Online environment
 
 &emsp; If you don't have a machine, you can still develop your work by using an online environment instead.
@@ -22,7 +36,9 @@
  - [Kaggle](https://www.kaggle.com/) - Limited GPU access but it will refill every week. Before access GPU you have to verify your account by following this [tutorial](https://www.kaggle.com/general/331276).
  - [Microsoft Azure](https://azure.microsoft.com/en-us) - Hard to use, but it's more adjustable. Azure has 100 free credits for student, activate by this [link](https://azure.microsoft.com/en-us/free/students/).
  - [Deepnote](https://deepnote.com/)
+<!------------------------------------------------------------------------------>
 
+<a name='ref_res'></a>
 # Reference and more resource
 
 **Reference**
