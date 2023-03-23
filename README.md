@@ -44,10 +44,11 @@
 **Reference**
 * [Deep Learning with Pytorch](https://www.manning.com/books/deep-learning-with-pytorch), all code in this book available in [Github](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 * [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/), video version of this course [Freecodecamp](https://www.youtube.com/watch?v=V_xro1bcAuA&t=27185s) or [Author's youtube channels](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=81s)
-* [Deep Learning for Coders with Fastai and Pytorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527), official's free version on [Github](https://github.com/fastai/fastbook?fbclid=IwAR3U6Ex5bPtuXdmmfpULpqD81M_mziO3Le1D7HNiVuJ7GtUbvJU6x3uBQrQ) or [Official's site](https://course.fast.ai/)
+
 
 **More Resource**
 * [pytorch_notebooks](https://github.com/dair-ai/pytorch_notebooks): A collection of PyTorch notebooks for studying and practicing deep learning.
 * [pytorch-image-models](https://github.com/huggingface/pytorch-image-models): Collection of pytorch pretrained-weight models for computer vision from [HuggingFace](https://huggingface.co/)
 * [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 * [Deep Learning With Pytorch: a 60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html): An Official's Pytorch tutorial.
+* [Deep Learning for Coders with Fastai and Pytorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527), official's free version on [Github](https://github.com/fastai/fastbook?fbclid=IwAR3U6Ex5bPtuXdmmfpULpqD81M_mziO3Le1D7HNiVuJ7GtUbvJU6x3uBQrQ) or [Official's site](https://course.fast.ai/)
