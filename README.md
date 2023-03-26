@@ -6,9 +6,9 @@
 **Coming Update**
 | Content  | Date |
 |---|---|
-| image classification, custom datasets, transfer learning   | within 24/03/23  |
-| how to prepare dataset for object detection task  | within 26/03/23  |
-| object detection  | within 31/03/23  |
+| image classification, custom datasets, transfer learning   | Not yet  |
+| how to prepare dataset for object detection task  | Not yet  |
+| object detection  | Not yet  |
 <!------------------------------------------------------------------------------>
 
 ## Table of contents
