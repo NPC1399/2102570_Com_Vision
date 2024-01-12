@@ -1,4 +1,4 @@
-**PyTorch Tutorial in Computer Vision for Computer Vision and Video Electronics, CUEE**
+**PyTorch Tutorial in 2102570 Introduction to Computer Vision, CUEE**
 
 &emsp; This tutorial will contain example with description for image classification, custom datasets, transfer learning, and object detection task using PyTorch step by step.
 <!------------------------------------------------------------------------------>
