@@ -3,12 +3,7 @@
 &emsp; This tutorial will contain example with description for image classification, custom datasets, transfer learning, and object detection task using PyTorch step by step.
 <!------------------------------------------------------------------------------>
 
-**Coming Update**
-| Content  | Date |
-|---|---|
-| image classification, custom datasets, transfer learning   | Not yet  |
-| how to prepare dataset for object detection task  | Not yet  |
-| object detection  | Not yet  |
+
 <!------------------------------------------------------------------------------>
 
 ## Table of contents
